@@ -1,0 +1,1207 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 01
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27071
+#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 02
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27259
+#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 03
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27331
+#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 04
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27332
+#EXTINF:-1 tvg-id="" tvg-name="BBB 05" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 05
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27333
+#EXTINF:-1 tvg-id="" tvg-name="BBB 06" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 06
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27334
+#EXTINF:-1 tvg-id="" tvg-name="BBB 07" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 07
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27335
+#EXTINF:-1 tvg-id="" tvg-name="BBB 08" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 08
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27336
+#EXTINF:-1 tvg-id="" tvg-name="BBB 09" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 09
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27337
+#EXTINF:-1 tvg-id="" tvg-name="BBB 10" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 10
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27338
+#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB Mosaico
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27260
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://files.cercomp.ufg.br/weby/up/296/o/20131118121929.png" group-title="Atenção",Atenção!
+https://0.0.0.0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51S10JcGd4L.png" group-title="Atenção1",Não deixe a lista acabar.
+https://0.0.0.1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://openclipart.org/image/2400px/svg_to_png/191454/donate-button.png" group-title="Atenção2",Faça uma doação.
+https://0.0.0.2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2020/02/pix-bc-logo.png" group-title="Atenção3",Via pix(Email).
+https://0.0.0.3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://comoinvestirdinheiro.com/wp-content/uploads/2020/09/logo-banco-inter-2048-750x750.jpg" group-title="Atenção4",williannoox@gmail.com
+https://0.0.0.4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://agencia-assets.s3.us-east-2.amazonaws.com/blogs/miniatures/min25.jpg" group-title="Atenção5",Qualquer valor.
+https://0.0.0.5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.brightontoymuseum.co.uk/w/images/Lego_Creator_logo.jpg" group-title="Atenção6",Valorize o criador.
+https://0.0.0.6
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: A&E HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/23d446c380b7b638d191c8ee096b8303.png" group-title="Brazil",BR: A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8816
+#EXTINF:-1 tvg-id="" tvg-name="BR A&E HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/23d446c380b7b638d191c8ee096b8303.png" group-title="Best of LifeStyle",BR A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/275192
+#EXTINF:-1 tvg-id="" tvg-name="BR: AgroBrasil TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: AgroBrasil TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7320
+#EXTINF:-1 tvg-id="" tvg-name="BR: All Sports HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: All Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7321
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/28ce80f56c83746e127421c05b68290c.png" group-title="Brazil",BR: AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8845
+#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/fc6b8a56e3fd60bd26a6377a4f700db4.png" group-title="Brazil",BR: ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8890
+#EXTINF:-1 tvg-id="" tvg-name="BR ANIMAL PLANET HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/fc6b8a56e3fd60bd26a6377a4f700db4.png" group-title="Best of Documentary",BR ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273381
+#EXTINF:-1 tvg-id="" tvg-name="BR: ARTE 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/28fbfc2b0f0a676bcfdce95e4aa10b32.png" group-title="Brazil",BR: ARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8833
+#EXTINF:-1 tvg-id="" tvg-name="BR: As Aventuras de Jackie Chan HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: As Aventuras de Jackie Chan HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286068
+#EXTINF:-1 tvg-id="" tvg-name="BR: Automotor Sport Channel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e8b4746f0709ec4decccab3d302291fa.png" group-title="Brazil",BR: Automotor Sport Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/16430
+#EXTINF:-1 tvg-id="" tvg-name="BR: AXN FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/81f85350c982e88a4ea07ac7802bd319.png" group-title="Brazil",BR: AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8852
+#EXTINF:-1 tvg-id="" tvg-name="BR: Baby TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/6d547caaa4b83ed3088387753a2e8b35.png" group-title="Brazil",BR: Baby TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8922
+#EXTINF:-1 tvg-id="" tvg-name="BR Baby TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/6d547caaa4b83ed3088387753a2e8b35.png" group-title="Best of Kids",BR Baby TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274327
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Campinas HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/94cff4ded77e04d78ea3ce449e0e3f3b.png" group-title="Brazil",BR: Band Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/280153
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/d28d24f816db20ed14be5bed3411a00f.png" group-title="Brazil",BR: Band News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14486
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sports FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ceff609636ae03e6425dafdbd72ab1e3.png" group-title="Brazil",BR: Band Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8777
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Vale HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ebd85951f6c4ef7cefe147f04f79fd12.png" group-title="Brazil",BR: Band Vale HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8938
+#EXTINF:-1 tvg-id="" tvg-name="BR: BIS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f6b3a65232a363941b122d1fe94bc141.png" group-title="Brazil",BR: BIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/24621
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Brasil HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bd8d3e37bf7419f9ef467b1b72b4de69.png" group-title="Brazil",BR: Canal Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14569
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Metropolitano de Noticias" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Canal Metropolitano de Noticias
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/283845
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Off HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/d1934276e9e185fb324c51a5444d2b1f.png" group-title="Brazil",BR: Canal Off HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14532
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Saude HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Canal Saude HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286075
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Viva HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d108d4ed6d37f059df3c338a0cc92544.png" group-title="Brazil",BR: Canal Viva HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14553
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cartoon Network HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/072885790a3958b2fbf1e2ad147e4d16.png" group-title="Brazil",BR: Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8913
+#EXTINF:-1 tvg-id="" tvg-name="BR Cartoon Network HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/072885790a3958b2fbf1e2ad147e4d16.png" group-title="Best of Kids",BR Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273292
+#EXTINF:-1 tvg-id="" tvg-name="BR: Catve Master TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Catve Master TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286077
+#EXTINF:-1 tvg-id="" tvg-name="BR: CBN Rio De Janeiro HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/83c9095fa347804e4f308b5e1dbde2d4.png" group-title="Brazil",BR: CBN Rio De Janeiro HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/283843
+#EXTINF:-1 tvg-id="" tvg-name="BR: CBN Sao Paulo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/31fc07e9645fa110a41fa22290064a8f.png" group-title="Brazil",BR: CBN Sao Paulo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/283844
+#EXTINF:-1 tvg-id="" tvg-name="BR: Central TV Brazil HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Central TV Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286793
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cinemax FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ec43da7ea739837c267ab3a8d00686c9.png" group-title="Brazil",BR: Cinemax FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8834
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNN Brasil HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ed84a46ac48297c8570ab55c56ce116c.png" group-title="Brazil",BR: CNN Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/148404
+#EXTINF:-1 tvg-id="" tvg-name="BR: COM Brasil HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: COM Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286072
+#EXTINF:-1 tvg-id="" tvg-name="BR: Combate FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f8ef6dd50c1b857e4927b6acf17e1f5e.png" group-title="Brazil",BR: Combate FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8778
+#EXTINF:-1 tvg-id="" tvg-name="BR: Comedy Central FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/7f092ab65baeb81a33b9ee3ff4ad965e.png" group-title="Brazil",BR: Comedy Central FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8779
+#EXTINF:-1 tvg-id="" tvg-name="BR: Comedy Central Pluto TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Comedy Central Pluto TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286079
+#EXTINF:-1 tvg-id="" tvg-name="BR: Comedy Central South Park HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Comedy Central South Park HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286080
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cultura HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/b817ca558818964c793cd8a93699d335.png" group-title="Brazil",BR: Cultura HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14491
+#EXTINF:-1 tvg-id="" tvg-name="BR: Curta HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/cccd63096c349feec570817a3c6e5eda.png" group-title="Brazil",BR: Curta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/166654
+#EXTINF:-1 tvg-id="" tvg-name="BR: Dark Matter TV Brazil HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Dark Matter TV Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286082
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery H&H FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c0420007da8642d8a87b5391db4ebee.png" group-title="Brazil",BR: Discovery H&H FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8904
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery H&H FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c0420007da8642d8a87b5391db4ebee.png" group-title="Best of Documentary",BR Discovery H&H FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273730
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Kids FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/6ef28a86d6d91e1ebe8ebfaa2c2723c7.png" group-title="Brazil",BR: Discovery Kids FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8893
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Kids FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/6ef28a86d6d91e1ebe8ebfaa2c2723c7.png" group-title="Best of Documentary",BR Discovery Kids FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273726
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Science HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ec34cf34b08cb3aa7e99dddc02a64327.png" group-title="Brazil",BR: Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8910
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Science HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ec34cf34b08cb3aa7e99dddc02a64327.png" group-title="Best of Documentary",BR Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282877
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Theater HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/eccdb9fd544de19f5a47da8c16b7fd94.png" group-title="Brazil",BR: Discovery Theater HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8892
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Theater HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/eccdb9fd544de19f5a47da8c16b7fd94.png" group-title="Best of Documentary",BR Discovery Theater HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273725
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Turbo FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f4ada104772fecc970f160730ac56e3e.png" group-title="Brazil",BR: Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8891
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Turbo FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f4ada104772fecc970f160730ac56e3e.png" group-title="Best of Documentary",BR Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273724
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery World Channel Brazil FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/10b90e0ce95b100cf9a6fbff0208bf4a.png" group-title="Brazil",BR: Discovery World Channel Brazil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8894
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery World Channel Brazil FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/10b90e0ce95b100cf9a6fbff0208bf4a.png" group-title="Best of Documentary",BR Discovery World Channel Brazil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273727
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery World FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/163cc77a950cd46b83e24173e037276d.png" group-title="Brazil",BR: Discovery World FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279608
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery World FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/163cc77a950cd46b83e24173e037276d.png" group-title="Best of Documentary",BR Discovery World FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279864
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Channel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/50a6bc80d5e23b687df1568a1e850667.png" group-title="Brazil",BR: Disney Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8895
+#EXTINF:-1 tvg-id="" tvg-name="BR Disney Channel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/50a6bc80d5e23b687df1568a1e850667.png" group-title="Best of Kids",BR Disney Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274547
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Junior HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/1ee3dbf19ac4cdf59a75ea3cf6310d90.png" group-title="Brazil",BR: Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8916
+#EXTINF:-1 tvg-id="" tvg-name="BR Disney Junior HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/1ee3dbf19ac4cdf59a75ea3cf6310d90.png" group-title="Best of Kids",BR Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274548
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney XD HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/def76639e5be8fb9e81013303abd42ab.png" group-title="Brazil",BR: Disney XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8917
+#EXTINF:-1 tvg-id="" tvg-name="BR Disney XD HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/def76639e5be8fb9e81013303abd42ab.png" group-title="Best of Kids",BR Disney XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274549
+#EXTINF:-1 tvg-id="" tvg-name="BR: E! HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/101a9a6578e355d9f5d280187b92598d.png" group-title="Brazil",BR: E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14501
+#EXTINF:-1 tvg-id="" tvg-name="BR E! HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/101a9a6578e355d9f5d280187b92598d.png" group-title="Best of LifeStyle",BR E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/275206
+#EXTINF:-1 tvg-id="" tvg-name="BR: EPTV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/607e76c5951836d6679fd041c25b0889.jpg" group-title="Brazil",BR: EPTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281736
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/68e11cc20e6cca405eeafe623b2bfdde.png" group-title="Brazil",BR: ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8801
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 3 HD" tvg-logo="" group-title="Brazil",BR: ESPN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290657
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Extra HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/280bbb819713bcee901695466ef9320a.png" group-title="Brazil",BR: ESPN Extra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8789
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/9df70541246da4f2f9a65296dc2d5604.png" group-title="Brazil",BR: ESPN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8793
+#EXTINF:-1 tvg-id="" tvg-name="BR: FailArmy HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: FailArmy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286084
+#EXTINF:-1 tvg-id="" tvg-name="BR: FilmBox Extra HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/948f97f6fe8d628700e717e6bf6337bc.png" group-title="Brazil",BR: FilmBox Extra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/16377
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fish TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/2c96f00b734b9db864fa9bba4f95aa9e.png" group-title="Brazil",BR: Fish TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8848
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fonte TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f2821ef03054efdda9b65e0bbb94a37c.png" group-title="Brazil",BR: Fonte TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/275967
+#EXTINF:-1 tvg-id="" tvg-name="BR: Food Network HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/a7dc053343d5b5f17371e7ba09b9f23d.png" group-title="Brazil",BR: Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8863
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Crime HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/4bfd4a035f282bfca1d50528a4ac7c61.png" group-title="Brazil",BR: Fox Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/16366
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c7f5dd8742f28244a9992857aa579966.png" group-title="Brazil",BR: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8817
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/803eff84acc7ba0bbdb7301cce19b54d.png" group-title="Brazil",BR: FOX SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8776
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fuel TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/a008fecfcc8d7f48590e9741fdf704fd.png" group-title="Brazil",BR: Fuel TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286083
+#EXTINF:-1 tvg-id="" tvg-name="BR: Futura FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/67909c2228c64ce8423a828571f3a90e.png" group-title="Brazil",BR: Futura FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7342
+#EXTINF:-1 tvg-id="" tvg-name="BR: FX HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/29b0fa9fe99cc48a8942c636566b1f3a.png" group-title="Brazil",BR: FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8835
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Asa Branca FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Globo Asa Branca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/193343
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Cuiaba HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Globo Cuiaba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/24555
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo EPTV Sao Carlos HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Globo EPTV Sao Carlos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14594
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Inter TV Cabugi FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Globo Inter TV Cabugi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/147279
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo News FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2c3ccc72192f58d85006755f44de4ee8.png" group-title="Brazil",BR: Globo News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14513
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Nordeste FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/fb90de64b7294ef6f6c257cec9eebb52.png" group-title="Brazil",BR: Globo Nordeste FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/24551
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo NSC TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af0df6b05c9fadc3efcdb89d1b51f0aa.png" group-title="Brazil",BR: Globo NSC TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/201034
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS Porto Alegre FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/3f7e24fb852ee92d626b3d9978240959.png" group-title="Brazil",BR: Globo RBS Porto Alegre FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/148423
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rio de Janeiro HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/186f7a0b07e33c9d29a5a51adbfd7521.png" group-title="Brazil",BR: Globo Rio de Janeiro HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/30437
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RPC Curitiba HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/6f9b6eaee2dc0e46618ab2e672aaa9b1.png" group-title="Brazil",BR: Globo RPC Curitiba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/182185
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Sao Paulo FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/70ce6ee15b1b77963ae064befa94e2f4.png" group-title="Brazil",BR: Globo Sao Paulo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14514
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Gazeta Vitoria HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/494777ae0d86f1b1aa1ed484b1aea495.png" group-title="Brazil",BR: Globo TV Gazeta Vitoria HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/245573
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gloob HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/34a173f24d6a5f0b68e1526ca063537f.png" group-title="Brazil",BR: Gloob HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14605
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gloobinho HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b33a52138c4f825690c38fdcdbb032d2.png" group-title="Brazil",BR: Gloobinho HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/148406
+#EXTINF:-1 tvg-id="" tvg-name="BR: GNT HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f9e7782911f80ec04ad4fb4fa63f1df9.png" group-title="Brazil",BR: GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8856
+#EXTINF:-1 tvg-id="" tvg-name="BR: Guia de Canais HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Guia de Canais HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286086
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/de30880a0e32854862b81cebfdff4f32.png" group-title="Brazil",BR: HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8821
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Family HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/a5f0e3d6c8aa749bb2a72f1b6c77059a.png" group-title="Brazil",BR: HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8839
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/021ac0dac6526eb0c4d8f609b0981a4a.png" group-title="Brazil",BR: HBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8822
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Mundi FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/0f43c56edfab944cec1a8b9571713c82.png" group-title="Brazil",BR: HBO Mundi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8837
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Pop FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/48ac45310042b36f1406d7d73b9bf562.png" group-title="Brazil",BR: HBO Pop FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/173434
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Signature HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c93e59083a2c4efbb21fd5c43406d7b8.png" group-title="Brazil",BR: HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8836
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Xtreme FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/535557537268d0798ae4e911306c09a7.png" group-title="Brazil",BR: HBO Xtreme FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8824
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO+ HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/73c84cd25a33650a215c8ae7ccd4714f.png" group-title="Brazil",BR: HBO+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8823
+#EXTINF:-1 tvg-id="" tvg-name="BR: HGTV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/11f067c48dbaca37b55e0c0d5c3f99a1.png" group-title="Brazil",BR: HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/147274
+#EXTINF:-1 tvg-id="" tvg-name="BR HGTV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/11f067c48dbaca37b55e0c0d5c3f99a1.png" group-title="Best of Documentary",BR HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/275122
+#EXTINF:-1 tvg-id="" tvg-name="BR: History 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/8a357a5ab6db772ce2e87f2dbb5256f7.png" group-title="Brazil",BR: History 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14516
+#EXTINF:-1 tvg-id="" tvg-name="BR History 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/8a357a5ab6db772ce2e87f2dbb5256f7.png" group-title="Best of Documentary",BR History 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274216
+#EXTINF:-1 tvg-id="" tvg-name="BR: History Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/77158ed2afb6b36f6b2391f9c81e58e9.png" group-title="Brazil",BR: History Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8901
+#EXTINF:-1 tvg-id="" tvg-name="BR History Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/77158ed2afb6b36f6b2391f9c81e58e9.png" group-title="Best of Documentary",BR History Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274210
+#EXTINF:-1 tvg-id="" tvg-name="BR: Hot FM SP HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Hot FM SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286087
+#EXTINF:-1 tvg-id="" tvg-name="BR: Investigation Discovery HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bc5c44c1809c5a734c7c501031cf5a61.png" group-title="Brazil",BR: Investigation Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14529
+#EXTINF:-1 tvg-id="" tvg-name="BR Investigation Discovery HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bc5c44c1809c5a734c7c501031cf5a61.png" group-title="Best of Documentary",BR Investigation Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273757
+#EXTINF:-1 tvg-id="" tvg-name="BR: ISTV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: ISTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286088
+#EXTINF:-1 tvg-id="" tvg-name="BR: Jeannie e um Genio HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Jeannie e um Genio HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286090
+#EXTINF:-1 tvg-id="" tvg-name="BR: Jovem Pan News FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Jovem Pan News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286091
+#EXTINF:-1 tvg-id="" tvg-name="BR: Jovem Pan Pluto TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Jovem Pan Pluto TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286092
+#EXTINF:-1 tvg-id="" tvg-name="BR: Lifetime HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bd2a830872db8c292f651865bb5f9e2c.png" group-title="Brazil",BR: Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8864
+#EXTINF:-1 tvg-id="" tvg-name="BR: Loupe HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Loupe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286093
+#EXTINF:-1 tvg-id="" tvg-name="BR: MAIS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/a9fef0ba3f713455f75c32ef4972427c.png" group-title="Brazil",BR: MAIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/172474
+#EXTINF:-1 tvg-id="" tvg-name="BR: MasterChef HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: MasterChef HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286098
+#EXTINF:-1 tvg-id="" tvg-name="BR: Megapix HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/b2ea93a81aca350f419921ea9805a21a.png" group-title="Brazil",BR: Megapix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8842
+#EXTINF:-1 tvg-id="" tvg-name="BR: MKK Web TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: MKK Web TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286094
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV Biggest Pop HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: MTV Biggest Pop HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286095
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e28bcf462d5d2310a16ec7fb6edbc24f.png" group-title="Brazil",BR: MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/147283
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV Pluto TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: MTV Pluto TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286096
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV Spankin New HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: MTV Spankin New HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286097
+#EXTINF:-1 tvg-id="" tvg-name="BR: Multishow FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/29748e0843a2065098876094dc8d6bf5.png" group-title="Brazil",BR: Multishow FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14528
+#EXTINF:-1 tvg-id="" tvg-name="BR: Music Box Brazil HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0d04ee1d714d8d0438b6c5ed4844dfe0.png" group-title="Brazil",BR: Music Box Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/278696
+#EXTINF:-1 tvg-id="" tvg-name="BR Music Box Brazil HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0d04ee1d714d8d0438b6c5ed4844dfe0.png" group-title="Best of Music",BR Music Box Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279213
+#EXTINF:-1 tvg-id="" tvg-name="BR: MyTime movie network Brazil HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: MyTime movie network Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286099
+#EXTINF:-1 tvg-id="" tvg-name="BR: Naruto HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Naruto HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286100
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/17bdba6f29d02a26d662d201e5804c35.png" group-title="Brazil",BR: NAT GEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14531
+#EXTINF:-1 tvg-id="" tvg-name="BR NAT GEO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/17bdba6f29d02a26d662d201e5804c35.png" group-title="Best of Documentary",BR NAT GEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274121
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ac4be9cbe3d27492dde3ab5bc37100b2.png" group-title="Brazil",BR: NAT GEO Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8914
+#EXTINF:-1 tvg-id="" tvg-name="BR NAT GEO Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ac4be9cbe3d27492dde3ab5bc37100b2.png" group-title="Best of Documentary",BR NAT GEO Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274114
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO Wild FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/2ffcbd5676076e9ba265226e0d30b4ec.png" group-title="Brazil",BR: NAT GEO Wild FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8905
+#EXTINF:-1 tvg-id="" tvg-name="BR NAT GEO Wild FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/2ffcbd5676076e9ba265226e0d30b4ec.png" group-title="Best of Documentary",BR NAT GEO Wild FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274113
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nick Classico HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Nick Classico HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286101
+#EXTINF:-1 tvg-id="" tvg-name="BR Nick Classico HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR Nick Classico HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290172
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nick Junior Club HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Nick Junior Club HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286102
+#EXTINF:-1 tvg-id="" tvg-name="BR Nick Junior Club HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR Nick Junior Club HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290112
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nick Junior FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/41ee70fc5cf3340f55d3e56ec6dd04e3.png" group-title="Brazil",BR: Nick Junior FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8919
+#EXTINF:-1 tvg-id="" tvg-name="BR Nick Junior FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/41ee70fc5cf3340f55d3e56ec6dd04e3.png" group-title="Best of Kids",BR Nick Junior FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282955
+#EXTINF:-1 tvg-id="" tvg-name="BR: nickelodeon HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c1f0d129b5b9e0eef699d00f5c802bee.png" group-title="Brazil",BR: nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/16391
+#EXTINF:-1 tvg-id="" tvg-name="BR nickelodeon HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c1f0d129b5b9e0eef699d00f5c802bee.png" group-title="Best of Kids",BR nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/283017
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nova Era TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Nova Era TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286105
+#EXTINF:-1 tvg-id="" tvg-name="BR: Novo Tempo HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Novo Tempo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/197082
+#EXTINF:-1 tvg-id="" tvg-name="BR: O Encantador de Caes HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: O Encantador de Caes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286107
+#EXTINF:-1 tvg-id="" tvg-name="BR: O Reino Infantil HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: O Reino Infantil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286108
+#EXTINF:-1 tvg-id="" tvg-name="BR: Paramount Network HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f523ee76185126c81ac4521434468814.png" group-title="Brazil",BR: Paramount Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8859
+#EXTINF:-1 tvg-id="" tvg-name="BR: Paramount+ Apresenta HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Paramount+ Apresenta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286110
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b5e27276ad261e52a66167b0ea08521f.png" group-title="Brazil",BR: Premiere FC 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8785
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e89f233ee5c27419e427a9a1d7a3ac3.png" group-title="Brazil",BR: Premiere FC 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8786
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dbf8357765c676043e8305d199ee7a8d.png" group-title="Brazil",BR: Premiere FC 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8787
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6d1777d9b0fa66337bdf19a0025cab6a.png" group-title="Brazil",BR: Premiere FC 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8788
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f86fbf59b55119969d8988c445b9fb2e.png" group-title="Brazil",BR: Premiere FC 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8790
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 6 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/644bdf62e752682dfbd2a7ac83b8f441.png" group-title="Brazil",BR: Premiere FC 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8791
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 7 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/672351d65facc0158d30a19069b4022d.png" group-title="Brazil",BR: Premiere FC 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8798
+#EXTINF:-1 tvg-id="" tvg-name="BR: RBA TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: RBA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/166057
+#EXTINF:-1 tvg-id="" tvg-name="BR: RCI HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: RCI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/275968
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/52ef77f0a1c40b4d7a453ea7b9981dd3.png" group-title="Brazil",BR: Record News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/10988
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record SP HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e026752897e9c4030665ca8565069525.png" group-title="Brazil",BR: Record SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14639
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record TV Americas HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/73628198a4031b4a18426516c4852ecb.png" group-title="Brazil",BR: Record TV Americas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/200090
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Brasil de Comunicacao HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Rede Brasil de Comunicacao HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286111
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Brasil HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/6ac8923fb0d25cd657ca3a6aea32ecd1.png" group-title="Brazil",BR: Rede Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7354
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede CNT HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Rede CNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286112
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Familia HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Rede Familia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/193339
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Gospel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6b253a01186afa06ae267c682e6f805c.png" group-title="Brazil",BR: Rede Gospel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/193342
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Mao Amiga HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Rede Mao Amiga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286116
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Minas FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/aeac30f79ebf752760da8ce01c4fa59d.png" group-title="Brazil",BR: Rede Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7408
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede RC HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Rede RC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286117
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Seculo 21 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Rede Seculo 21 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/245608
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Super HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Rede Super HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/147291
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ad72e8a6012c32bb3dc7cfb57167f5a4.png" group-title="Brazil",BR: Rede TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7359
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede TV Pampa HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Rede TV Pampa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286119
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede TV SP FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Rede TV SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/148414
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Vida HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Rede Vida HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/147286
+#EXTINF:-1 tvg-id="" tvg-name="BR: RedeTV Tocantins HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: RedeTV Tocantins HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286121
+#EXTINF:-1 tvg-id="" tvg-name="BR: Retro Cartoon HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Retro Cartoon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286122
+#EXTINF:-1 tvg-id="" tvg-name="BR Retro Cartoon HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR Retro Cartoon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290099
+#EXTINF:-1 tvg-id="" tvg-name="BR: Santa Cecilia TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Santa Cecilia TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286124
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33ab02258f56ad128c8cd92823906ed1.png" group-title="Brazil",BR: SBT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7367
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT Nordeste FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: SBT Nordeste FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281737
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT Rede Massa FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: SBT Rede Massa FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286123
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT RJ HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5c20bc002af8dadb65d2521086bc3437.png" group-title="Brazil",BR: SBT RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/148295
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT SP FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/68ab69d0c15b5d2e4b427da8a8eb8f07.png" group-title="Brazil",BR: SBT SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/148409
+#EXTINF:-1 tvg-id="" tvg-name="BR: Sesc TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Sesc TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286125
+#EXTINF:-1 tvg-id="" tvg-name="BR: Sony Channel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b650d306029b0434e50ff20f55752ce4.jpg" group-title="Brazil",BR: Sony Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8882
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2f163193ab2de12c120e02e264bc16a7.png" group-title="Brazil",BR: SPORTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8783
+#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2f163193ab2de12c120e02e264bc16a7.png" group-title="Best of Sports",BR SPORTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37193
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/50dc54d140bb68ee92fc1aa01bec5bb5.png" group-title="Brazil",BR: SPORTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8784
+#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/50dc54d140bb68ee92fc1aa01bec5bb5.png" group-title="Best of Sports",BR SPORTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37194
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6eafe5012b43973f31c5ee0b648e0594.png" group-title="Brazil",BR: SPORTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4015
+#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6eafe5012b43973f31c5ee0b648e0594.png" group-title="Best of Sports",BR SPORTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279169
+#EXTINF:-1 tvg-id="" tvg-name="BR: Star Channel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/92a9f643d5f5258d19da9374a1491f2e.png" group-title="Brazil",BR: Star Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/278658
+#EXTINF:-1 tvg-id="" tvg-name="BR: Star Hits 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/4a8263353ca57c2965f12d41057c0e08.png" group-title="Brazil",BR: Star Hits 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/278661
+#EXTINF:-1 tvg-id="" tvg-name="BR: Star Hits FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/2bbe4da81f27339ec50639bbab8570e3.png" group-title="Brazil",BR: Star Hits FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/278660
+#EXTINF:-1 tvg-id="" tvg-name="BR: Star Life HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/fddc9b66d6fbd707fca7cd27a4f93485.png" group-title="Brazil",BR: Star Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/278659
+#EXTINF:-1 tvg-id="" tvg-name="BR: Studio Universal FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/30f203154bb3241f4f40b4ebb08b93fc.png" group-title="Brazil",BR: Studio Universal FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/280996
+#EXTINF:-1 tvg-id="" tvg-name="BR: SYFY HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/972867e3ec0db38c275223add00c4d45.png" group-title="Brazil",BR: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14485
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tastemade FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Tastemade FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286173
+#EXTINF:-1 tvg-id="" tvg-name="BR: TBS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e4693a207df434a6920712ae75db8897.png" group-title="Brazil",BR: TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14649
+#EXTINF:-1 tvg-id="" tvg-name="BR: TCM HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/1465b8cc567084627f7a78332bc7f39a.png" group-title="Brazil",BR: TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8853
+#EXTINF:-1 tvg-id="" tvg-name="BR: TeenNick HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/af243d4e182395f0b05bfbaa36ad4569.png" group-title="Brazil",BR: TeenNick HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286103
+#EXTINF:-1 tvg-id="" tvg-name="BR TeenNick HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/af243d4e182395f0b05bfbaa36ad4569.png" group-title="Best of Kids",BR TeenNick HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290173
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Action FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/382394f54e1cba9d754816738704301a.png" group-title="Brazil",BR: Telecine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/193685
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Cult HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/925e3612d2b98fe7d83b4eab71e1a4ec.png" group-title="Brazil",BR: Telecine Cult HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/197080
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Fun HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b85207092bfc198d2487690fbe3e53ea.png" group-title="Brazil",BR: Telecine Fun HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8831
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Pipoca FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/c78a744003315a9cb807d6a4e2525a91.png" group-title="Brazil",BR: Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8830
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Premium FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2483792e92c1dd609fcfe7ce17a61178.png" group-title="Brazil",BR: Telecine Premium FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8829
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Touch HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/238fbd6483ed57f1a9a63a993d2bfff0.png" group-title="Brazil",BR: Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8828
+#EXTINF:-1 tvg-id="" tvg-name="BR: Terra Viva HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Terra Viva HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/197213
+#EXTINF:-1 tvg-id="" tvg-name="BR: The Pet Collective HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: The Pet Collective HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286176
+#EXTINF:-1 tvg-id="" tvg-name="BR: TLC HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/68957793aa8d6562c337f95a0e2b9ac2.png" group-title="Brazil",BR: TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7370
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e8f2a7e44e82191ea91b4de87268d3fb.png" group-title="Brazil",BR: TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8840
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Series HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/faeb9eb91bcb801f619ef9ad721204fd.png" group-title="Brazil",BR: TNT Series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8827
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Sports 2 Brasil HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/996fc56d9216496e35f9c1fafc43fc48.png" group-title="Brazil",BR: TNT Sports 2 Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286127
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Sports 3 Brasil HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c1949fb7e7932e14844b06d79aec05b5.png" group-title="Brazil",BR: TNT Sports 3 Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286128
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Sports 4 Brasil HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/98ffdae3cc8eeeb59681bdf858fffc9f.png" group-title="Brazil",BR: TNT Sports 4 Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286129
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Sports 5 Brasil HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b46708aa4c4d16e1820aa921d3a2a3df.png" group-title="Brazil",BR: TNT Sports 5 Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286130
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tokusato HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Tokusato HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286177
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tooncast HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/196dfc072cf13734a863154709d33390.png" group-title="Brazil",BR: Tooncast HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8927
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tru TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d4ac1435d78c972971a78952415580b.png" group-title="Brazil",BR: Tru TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/147652
+#EXTINF:-1 tvg-id="" tvg-name="BR: Turma da Monica HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Turma da Monica HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286178
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Aberta FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Aberta FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286131
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Aparecida FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c2c8ef22c7bb0d94af0445eb6db99f53.png" group-title="Brazil",BR: TV Aparecida FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7379
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Assembl HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Assembl HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/166063
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Birigui HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Birigui HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286135
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV BNO HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV BNO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/201934
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Brasil 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9c356c9a1b5029c9a5ca4c0a1051ba39.png" group-title="Brazil",BR: TV Brasil 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/24284
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Brasil HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bf6e1233552b89aedce24100583925c7.png" group-title="Brazil",BR: TV Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/166056
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV BRICS Portuguese FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV BRICS Portuguese FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286134
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Camara 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Camara 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286143
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Camara de Sao Paulo HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Camara de Sao Paulo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286137
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Camara FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Camara FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/285517
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Cancao Nova HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/666b90b756c7a5d3ad07a2a9d4224898.png" group-title="Brazil",BR: TV Cancao Nova HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7387
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Capital Lucelia HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Capital Lucelia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286138
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Carioca HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Carioca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/201935
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Cidade Canal 9 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Cidade Canal 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/201936
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Cidade de Petrópolis HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Cidade de Petrópolis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286141
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Cinec HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Cinec HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286142
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV das Artes HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV das Artes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/285516
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Destak HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Destak HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286144
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Diario do Sertao HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Diario do Sertao HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/22361
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Escola HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Escola HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7372
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Evangelizar HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Evangelizar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/245605
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Gazeta HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Gazeta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7391
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Gideoes HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Gideoes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286149
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Globo Brasilia HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/6e946ca316181a527be5ab513b93a9f1.png" group-title="Brazil",BR: TV Globo Brasilia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/24556
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Globo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/52ffd9126023e23c658ce886aef1f685.png" group-title="Brazil",BR: TV Globo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/280637
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Guara HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Guara HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286150
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Interlagos HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Interlagos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286151
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Justica HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Justica HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/285520
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Mackenzie HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Mackenzie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286153
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV MAX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286152
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Mon HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Mon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286155
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Nova Onda HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Nova Onda HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286156
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Novo Tempo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/83f70bd11eee502c3e2f9224342cf961.png" group-title="Brazil",BR: TV Novo Tempo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7411
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Pai Eterno HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/aed42a5ab387cb1a81ae2266b4e9e47a.png" group-title="Brazil",BR: TV Pai Eterno HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/166054
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Pantanal MS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Pantanal MS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286157
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Pocos HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Pocos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286158
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Ra Tim Bum HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c1d04a3208a6ce40e8717ff95febbe43.png" group-title="Brazil",BR: TV Ra Tim Bum HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/148405
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Santa Cruz HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Santa Cruz HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286159
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Senado HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Senado HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/285521
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Terceiro Anjo HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Terceiro Anjo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286160
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Thathi HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Thathi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286161
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Tokyo HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Tokyo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286162
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Verdes Campos HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TV Verdes Campos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286167
+#EXTINF:-1 tvg-id="" tvg-name="BR: TVE Bahia HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TVE Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/22364
+#EXTINF:-1 tvg-id="" tvg-name="BR: TVideo News HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TVideo News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/283846
+#EXTINF:-1 tvg-id="" tvg-name="BR: TVN Brasil HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: TVN Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/265770
+#EXTINF:-1 tvg-id="" tvg-name="BR: Universal TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/55f491eb5cf79d059b092c8f419096ff.png" group-title="Brazil",BR: Universal TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7422
+#EXTINF:-1 tvg-id="" tvg-name="BR: Warner TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/a0d05e26a50d5cb1936f963ba580263e.png" group-title="Brazil",BR: Warner TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8825
+#EXTINF:-1 tvg-id="" tvg-name="BR: WooHoo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c1fab44da99480e4910bb7bfc3bc7c5e.png" group-title="Brazil",BR: WooHoo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14555
+#EXTINF:-1 tvg-id="" tvg-name="BR: Yeeaah! HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: Yeeaah! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286180
+#EXTINF:-1 tvg-id="" tvg-name="BR: ZooMoo Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/670dd04d606c4c64360f9800e75069c6.png" group-title="Brazil",BR: ZooMoo Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14661
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Alba XXX 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3307
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Alba XXX 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8310
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Alba XXX 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8315
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Alba XXX 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8314
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Alba XXX 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8313
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Alba XXX 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8312
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Alba XXX HD1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8311
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Alba XXX HD2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/201240
+#EXTINF:-1 tvg-id="" tvg-name="XXX: babes FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e39e2ff3e4ebaf36c1940ddc933f1d78.png" group-title="XXX",XXX: babes FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3289
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BALKAN EROTIC HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: BALKAN EROTIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3320
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BANG U" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: BANG U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3330
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Bangerz" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Bangerz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/260354
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BARELY LEGAL" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: BARELY LEGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/92037
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Blue Hustler HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Blue Hustler HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37296
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BOXTRUCK SEX FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: BOXTRUCK SEX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282208
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: BRAZZERS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/79
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dorcel TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9625dd5a74261c7470fa5a135598cc79.png" group-title="XXX",XXX: Dorcel TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/53152
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dream Porn" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Dream Porn
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3288
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dusk HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eca5ed8af4d5a989426f9763e793ba63.png" group-title="XXX",XXX: Dusk HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/75
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Emanuelle" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Emanuelle
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3332
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0cc88b5e1837a574d9afd4c0b5548666.png" group-title="XXX",XXX: erotic 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37153
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e3ecf142562fb0dd76722e5a3f3af9f5.png" group-title="XXX",XXX: erotic 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/76
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cb3e377994e967a278f87247ac8d4090.png" group-title="XXX",XXX: erotic 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3317
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/73b032b563fc35327ae7fe71903d64b3.png" group-title="XXX",XXX: erotic 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/52
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d784f6c8cc3da5b4f5a70e3fc0754145.png" group-title="XXX",XXX: erotic 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/35814
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 6 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ad731974dee83ee4da6cadbfe518b414.png" group-title="XXX",XXX: erotic 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/77
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 7 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00837055688d2ce5957bb86611dfcd43.png" group-title="XXX",XXX: erotic 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3318
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 8 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/60782fcb30648b1df7389d5351a3f0e5.png" group-title="XXX",XXX: erotic 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3319
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EROX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e72bd471b8065c856a5bce7de14fc471.png" group-title="XXX",XXX: EROX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3796
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EROXXX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3911eb41a72af8e58d98221401182480.png" group-title="XXX",XXX: EROXXX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37276
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Evil Angel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Evil Angel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/146259
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTASY HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8d7833a7af9700e7a01d8b3475f8ed9c.png" group-title="XXX",XXX: EXTASY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/195567
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Exxxotica TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Exxxotica TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3345
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Fashion TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Fashion TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/192275
+#EXTINF:-1 tvg-id="" tvg-name="XXX: French Lover" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: French Lover
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3334
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: HOT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1538
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT TABOO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: HOT TABOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290031
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT XXL" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: HOT XXL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/15844
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1161b5609e8639fa7922c371e25c63c2.png" group-title="XXX",XXX: Hustler HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/6028
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler TV RED" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/39f670616f23f6bfb21d6f0aed98de65.png" group-title="XXX",XXX: Hustler TV RED
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290277
+#EXTINF:-1 tvg-id="" tvg-name="XXX: JASMIN.TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: JASMIN.TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/375
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LEO TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: LEO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/283826
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LEO TV Gold" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: LEO TV Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3326
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Lesbian Affair" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Lesbian Affair
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3331
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Lust Pur TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Lust Pur TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290294
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Meiden Van Holland HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Meiden Van Holland HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3311
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Miami TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1731
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV Jenny Live" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Miami TV Jenny Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/285514
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV Latino" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Miami TV Latino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/18344
+#EXTINF:-1 tvg-id="" tvg-name="XXX: NET XX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: NET XX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3324
+#EXTINF:-1 tvg-id="" tvg-name="XXX: nuart HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: nuart HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/49169
+#EXTINF:-1 tvg-id="" tvg-name="XXX: O.La.La HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/89cbca28208f364ef1b47c06315afd71.png" group-title="XXX",XXX: O.La.La HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/36535
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OLDTIMER HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: OLDTIMER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3322
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Passie XXX HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8712b8aa05c4d22e29838d4eefe9e03.png" group-title="XXX",XXX: Passie XXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/28298
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Passion XXX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Passion XXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/48
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Passion XXX HD +1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Passion XXX HD +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/283040
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE Gold FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ae248ced9cd536ee1723ab55d0a3e7c2.png" group-title="XXX",XXX: PENTHOUSE Gold FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/32056
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE Quickies FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/44766506a37f3b088907703a0da4b7a8.png" group-title="XXX",XXX: PENTHOUSE Quickies FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3284
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Perv City HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Perv City HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/146314
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Pinko Club HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Pinko Club HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3342
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY DD HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: PLAYBOY DD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290310
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d6dd1f934c75182cb6ac60b311ad8183.png" group-title="XXX",XXX: PLAYBOY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14222
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY Latino HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: PLAYBOY Latino HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290309
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY USA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: PLAYBOY USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290342
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Private TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9150f35348b9d8da4226de2b9ce6c9b2.png" group-title="XXX",XXX: Private TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3281
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Reality Kings TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1a65ebbea073d02a2e015181b94f4a3.png" group-title="XXX",XXX: Reality Kings TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/383
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8bf9a9c45c6293b91fc1f144f40e898e.png" group-title="XXX",XXX: REDLIGHT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/85
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Russian Night" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Russian Night
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/49168
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Secret Circle" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Secret Circle
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290298
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SeXation" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: SeXation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/146437
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXTREME HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: SEXTREME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3309
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SuperOne HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: SuperOne HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3286
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b6d6e0bb58bd4e3c2b4874c609918a94.png" group-title="XXX",XXX: VENUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3258
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VISIT-X TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/80ca765246e54cb9c7f6744b550ccd21.png" group-title="XXX",XXX: VISIT-X TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/28531
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID Red FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: VIVID Red FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3989
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID Touch HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: VIVID Touch HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3295
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57f0394829c11df6816fc99acd551126.png" group-title="XXX",XXX: VIVID TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/146434
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIXEN" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/5412f754d84f76d71e0af50dd73b23b1.png" group-title="XXX",XXX: VIXEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290296
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X Bizarre" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: X Bizarre
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3313
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X Bunga Bunga" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: X Bunga Bunga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3315
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X Desire" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: X Desire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3791
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X-DREAM TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: X-DREAM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/188977
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X-DREAM TV 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: X-DREAM TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290280
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XXL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fa06cef9ac1eb267ae04ff8d77250e85.png" group-title="XXX",XXX: XXL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3298
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY Max FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1e02585dc3ba3c59be105d4156fc0de3.png" group-title="XXX",XXX: XY Max FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/192282
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY Mix HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: XY Mix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3293
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY Plus FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14e860767c8196bb366ffddc6ad1ff80.png" group-title="XXX",XXX: XY Plus FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3291
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY Plus FHD +1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: XY Plus FHD +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/285212
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Шалун TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Шалун TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290291
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 Kitchen FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/062c41cd06e96ce8510d943d7c51edf3.png" group-title="Portugal",PT: 24 Kitchen FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/2025
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT 24 Kitchen FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/062c41cd06e96ce8510d943d7c51edf3.png" group-title="Best of LifeStyle",PT 24 Kitchen FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274341
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A Bola TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f56b8e30125f68fe1d3ed3274e461134.png" group-title="Portugal",PT: A Bola TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1420
+#EXTINF:-1 tvg-id="" tvg-name="PT: A&E FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b34346f2d94d16e97f40441515e48cbf.png" group-title="Portugal",PT: A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279741
+#EXTINF:-1 tvg-id="" tvg-name="PT A&E FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b34346f2d94d16e97f40441515e48cbf.png" group-title="Best of LifeStyle",PT A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279899
+#EXTINF:-1 tvg-id="" tvg-name="PT: ADVANCE SIC FHD" tvg-logo="" group-title="Portugal",PT: ADVANCE SIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290666
+#EXTINF:-1 tvg-id="" tvg-name="PT: Afro Music Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f1920ec25bee676934bd32813123f2a.png" group-title="Portugal",PT: Afro Music Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/151775
+#EXTINF:-1 tvg-id="" tvg-name="PT Afro Music Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f1920ec25bee676934bd32813123f2a.png" group-title="Best of Music",PT Afro Music Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274810
+#EXTINF:-1 tvg-id="" tvg-name="PT: Alma Lusa FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Alma Lusa FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/264642
+#EXTINF:-1 tvg-id="amchd.pt" tvg-name="PT: AMC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ff2deccfb9fb15c90083f7c28ef24e05.png" group-title="Portugal",PT: AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1473
+#EXTINF:-1 tvg-id="" tvg-name="PT: Apanhados HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Apanhados HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/201059
+#EXTINF:-1 tvg-id="artv.pt" tvg-name="PT: AR TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22b90dd09952697c58877aff096f8999.png" group-title="Portugal",PT: AR TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/9629
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ab8a5bb7de8a56c0dcd49dcce1b15d42.png" group-title="Portugal",PT: AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1469
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: AXN Movies FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d31c6f7a6aa294e24dc1b66948442cb.png" group-title="Portugal",PT: AXN Movies FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1471
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN White FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/211d3e396d86a6ae2569a8508a37e282.png" group-title="Portugal",PT: AXN White FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1467
+#EXTINF:-1 tvg-id="" tvg-name="PT: Azores TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Azores TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/227045
+#EXTINF:-1 tvg-id="" tvg-name="PT: Baby TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8387532c7a04a1fdc7a6846aae51bac4.png" group-title="Portugal",PT: Baby TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1441
+#EXTINF:-1 tvg-id="" tvg-name="PT Baby TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8387532c7a04a1fdc7a6846aae51bac4.png" group-title="Best of Kids",PT Baby TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274320
+#EXTINF:-1 tvg-id="bbcntertainment.pt" tvg-name="PT: BBC Entertainment HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/21535916dd6cde396f32dd7c80171a00.png" group-title="Portugal",PT: BBC Entertainment HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/5937
+#EXTINF:-1 tvg-id="bbcworldnews.pt" tvg-name="PT: BBC World News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/35fe48fe9f77f5a5dac204b8ccff1e68.png" group-title="Portugal",PT: BBC World News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/11972
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: Benfica TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce7c9696313070a9238ade6d0b8c6c67.png" group-title="Portugal",PT: Benfica TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1497
+#EXTINF:-1 tvg-id="" tvg-name="PT: Biggs HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6bd0c23f862e4131e7dbbe307bc98c1a.png" group-title="Portugal",PT: Biggs HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1439
+#EXTINF:-1 tvg-id="" tvg-name="PT: Blaze HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/02288d1748b84afa4bf4d13d6d2e6727.png" group-title="Portugal",PT: Blaze HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3996
+#EXTINF:-1 tvg-id="" tvg-name="PT: Bloomberg TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/48735d59be1fb5f7b553176ef45a23b4.png" group-title="Portugal",PT: Bloomberg TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/5933
+#EXTINF:-1 tvg-id="" tvg-name="PT: Booba TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Booba TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/226097
+#EXTINF:-1 tvg-id="" tvg-name="PT: Boomerang HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/871261a4089358903b96c27d13de2f1f.png" group-title="Portugal",PT: Boomerang HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/24529
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cacavision HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Cacavision HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/13956
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: Canal 11 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93673aa325443895b136366bbfc38fc4.png" group-title="Portugal",PT: Canal 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1480
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 180 HD" tvg-logo="" group-title="Portugal",PT: CANAL 180 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/146057
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal 24 Horas HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/97505ce76cd0a48312723a0e7df3dda5.jpg" group-title="Portugal",PT: Canal 24 Horas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/28853
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Hollywood FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4996bfaef88ad7b8cc6c457a53b52db.png" group-title="Portugal",PT: Canal Hollywood FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1455
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Lucas Neto TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Canal Lucas Neto TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/226098
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Nos FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/114f6e6869a36118459e2f676012e5bc.png" group-title="Portugal",PT: Canal Nos FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/278550
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Panda HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29f1c10d6d10f0dba48ef1ab8f5650a1.png" group-title="Portugal",PT: Canal Panda HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1438
+#EXTINF:-1 tvg-id="canalq.pt" tvg-name="PT: Canal Q HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/27276a58bc8105c1ee377d75d7af2f13.png" group-title="Portugal",PT: Canal Q HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1430
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Terra Nossa FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Canal Terra Nossa FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286837
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="PT: Cartoon Network HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8f4a17537e3d35fc10f7258bda5c1de2.png" group-title="Portugal",PT: Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1440
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="PT Cartoon Network HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8f4a17537e3d35fc10f7258bda5c1de2.png" group-title="Best of Kids",PT Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/50923
+#EXTINF:-1 tvg-id="" tvg-name="PT: Casa e Cozinha FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4ee9b446cc63844d9c2fbf86fded3d4.png" group-title="Portugal",PT: Casa e Cozinha FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/6097
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="PT: Caza y Pesca FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/32f92f782ad8da74b3ba7ddacdcf5af4.png" group-title="Portugal",PT: Caza y Pesca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1524
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="PT Caza y Pesca FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/32f92f782ad8da74b3ba7ddacdcf5af4.png" group-title="Best of Documentary",PT Caza y Pesca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279189
+#EXTINF:-1 tvg-id="cbsreality.pt" tvg-name="PT: CBS Reality HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8f95bb48e77b4199e2b4b82fa5b0e97f.png" group-title="Portugal",PT: CBS Reality HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1528
+#EXTINF:-1 tvg-id="" tvg-name="PT: CGTN HD" tvg-logo="" group-title="Portugal",PT: CGTN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/162161
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cine Mundo FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d2248be6d1a2b629f8ead3f41558ccf.png" group-title="Portugal",PT: Cine Mundo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1477
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cinema Em Casa HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Cinema Em Casa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/226088
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cinema Fantasia HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Cinema Fantasia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286838
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cinema Guerra FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Cinema Guerra FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286835
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cinema Jackie Chan HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Cinema Jackie Chan HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286832
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cinema Portugues FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Cinema Portugues FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/226087
+#EXTINF:-1 tvg-id="" tvg-name="PT: Clubbing TV HD" tvg-logo="" group-title="Portugal",PT: Clubbing TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/11018
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT: CM TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac1ea8e2c36914812a32029089a0b6d1.png" group-title="Portugal",PT: CM TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1412
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNBC HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0b8bb17a9cb61223b2380552b0c786d0.png" group-title="Portugal",PT: CNBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8038
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNN HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6229119ced63980d446e91988a8cd526.png" group-title="Portugal",PT: CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/9703
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNN Portugal FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/3c7353e281a0f304777f37ec58a6b22a.png" group-title="Portugal",PT: CNN Portugal FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1414
+#EXTINF:-1 tvg-id="" tvg-name="PT: Combate HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/85e4b11ef9dd59e9df9a91ec5083e3c0.png" group-title="Portugal",PT: Combate HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/198276
+#EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="PT: Crime+ Investigation HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/be299b5887efb6ac2ef139e7219f3af9.png" group-title="Portugal",PT: Crime+ Investigation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/5928
+#EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="PT Crime+ Investigation HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/be299b5887efb6ac2ef139e7219f3af9.png" group-title="Best of Documentary",PT Crime+ Investigation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273251
+#EXTINF:-1 tvg-id="" tvg-name="PT: Discovery Turbo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/5885561c1796a37f130fac8d4f7a6fcf.png" group-title="Portugal",PT: Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281874
+#EXTINF:-1 tvg-id="" tvg-name="PT Discovery Turbo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/5885561c1796a37f130fac8d4f7a6fcf.png" group-title="Best of Documentary",PT Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282894
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT: Discovery World FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/07637d4b1d8cc5b2784ec078bbb23f2b.png" group-title="Portugal",PT: Discovery World FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1527
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT Discovery World FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/07637d4b1d8cc5b2784ec078bbb23f2b.png" group-title="Best of Documentary",PT Discovery World FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273679
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT: Disney Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8421402691971ea1c41aecab55b6eaba.png" group-title="Portugal",PT: Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1434
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT Disney Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8421402691971ea1c41aecab55b6eaba.png" group-title="Best of Kids",PT Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274525
+#EXTINF:-1 tvg-id="" tvg-name="PT: Disney Junior HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d8e3dffef846a877bebfee531a9a986e.png" group-title="Portugal",PT: Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1435
+#EXTINF:-1 tvg-id="" tvg-name="PT Disney Junior HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d8e3dffef846a877bebfee531a9a986e.png" group-title="Best of Kids",PT Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/50901
+#EXTINF:-1 tvg-id="" tvg-name="PT: Dog TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/873e7bf90507edd1036f9b0550ac66e7.png" group-title="Portugal",PT: Dog TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/9699
+#EXTINF:-1 tvg-id="" tvg-name="PT: E! FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5f058eed1f49095b75e2234ae703754.png" group-title="Portugal",PT: E! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1526
+#EXTINF:-1 tvg-id="" tvg-name="PT E! FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5f058eed1f49095b75e2234ae703754.png" group-title="Best of LifeStyle",PT E! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/50950
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Portugal",PT: ELEVEN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1499
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Best of Sports",PT ELEVEN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282821
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Portugal",PT: ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1503
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Best of Sports",PT ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282822
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Portugal",PT: ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1506
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Best of Sports",PT ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282823
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Portugal",PT: ELEVEN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1509
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="Portugal",PT: ELEVEN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1512
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="Portugal",PT: ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1515
+#EXTINF:-1 tvg-id="" tvg-name="PT: euronews HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f2d6e3aff23355d4203d9ddb8efa0633.png" group-title="Portugal",PT: euronews HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4007
+#EXTINF:-1 tvg-id="" tvg-name="PT: euronews Portugues HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: euronews Portugues HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/287398
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="Portugal",PT: EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1517
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/44e7fcd83142484151969cb5ec092f2c.png" group-title="Portugal",PT: EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1518
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fashion TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4b32e9c8c8aa8974c9a9bd7655d97463.png" group-title="Portugal",PT: Fashion TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/2656
+#EXTINF:-1 tvg-id="cancaonova.pt" tvg-name="PT: Fatima FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Fatima FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/53924
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fiction Movies HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Fiction Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/201053
+#EXTINF:-1 tvg-id="" tvg-name="PT: FIGHT BOX HD" tvg-logo="" group-title="Portugal",PT: FIGHT BOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/151882
+#EXTINF:-1 tvg-id="" tvg-name="PT: FIGHT Network FHD" tvg-logo="" group-title="Portugal",PT: FIGHT Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/9650
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fite HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Fite HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281930
+#EXTINF:-1 tvg-id="" tvg-name="PT: Folclore HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Folclore HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286830
+#EXTINF:-1 tvg-id="" tvg-name="PT: Food Network FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/24ab44b55e4bf2de5ad55ba14be2554a.png" group-title="Portugal",PT: Food Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/2044
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Comedy FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cfff810431b4d8089b10819a2b42ff24.png" group-title="Portugal",PT: Fox Comedy FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1465
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Crime FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/079dbfbc1da0e76173cd3a002f26eb00.png" group-title="Portugal",PT: Fox Crime FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1463
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fd8c5e231ea4d017d5998c69fac50b24.png" group-title="Portugal",PT: FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1461
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Life FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9a97e75d0b0813a123a7e333f75af9b9.png" group-title="Portugal",PT: Fox Life FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1459
+#EXTINF:-1 tvg-id="" tvg-name="PT Fox Life FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9a97e75d0b0813a123a7e333f75af9b9.png" group-title="Best of LifeStyle",PT Fox Life FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273954
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Movies FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/62026fb360365534347674c3d5041ec2.png" group-title="Portugal",PT: FOX Movies FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1457
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fox News Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f7baf267b179581cbcbfa594bc23e9aa.png" group-title="Portugal",PT: Fox News Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/278445
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX SPORTS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/11dfc661a91cd89755e23af61a56807f.png" group-title="Portugal",PT: FOX SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/40345
+#EXTINF:-1 tvg-id="" tvg-name="PT: France 24 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/37ec67a7032aadb19786b4f4f27ccb8c.png" group-title="Portugal",PT: France 24 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/11019
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fuel TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2df8f6e6d22413d34871a4e44e7117fb.png" group-title="Portugal",PT: Fuel TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1521
+#EXTINF:-1 tvg-id="" tvg-name="PT: Galicia TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/54a56741dd12e4b8c912c30e5c10282b.png" group-title="Portugal",PT: Galicia TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8028
+#EXTINF:-1 tvg-id="" tvg-name="PT: Gametoon HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5b695e5079eaa46c1ed47f040bd9f9eb.png" group-title="Portugal",PT: Gametoon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/265257
+#EXTINF:-1 tvg-id="" tvg-name="PT: Ginx eSports TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/784ad650798c209aa5dfcd68b65b307c.png" group-title="Portugal",PT: Ginx eSports TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/15913
+#EXTINF:-1 tvg-id="" tvg-name="PT: Globo News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/78046ef51a64f775784f5d8d49476189.png" group-title="Portugal",PT: Globo News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/5915
+#EXTINF:-1 tvg-id="" tvg-name="PT: Globo Now HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/2ea93fce6348d0f73c8113528004f85e.png" group-title="Portugal",PT: Globo Now HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279739
+#EXTINF:-1 tvg-id="" tvg-name="PT: HBO Portugal HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/04813691decb2e3153bd762ef9cedc44.png" group-title="Portugal",PT: HBO Portugal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/201073
+#EXTINF:-1 tvg-id="" tvg-name="PT: History FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6032909e08119f5609aef6340cb3740e.png" group-title="Portugal",PT: History FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1525
+#EXTINF:-1 tvg-id="" tvg-name="PT History FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6032909e08119f5609aef6340cb3740e.png" group-title="Best of Documentary",PT History FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274307
+#EXTINF:-1 tvg-id="" tvg-name="PT: Investigation Discovery FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/db6a791521e3d31c550efeb266ba2bb6.png" group-title="Portugal",PT: Investigation Discovery FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/5914
+#EXTINF:-1 tvg-id="" tvg-name="PT Investigation Discovery FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/db6a791521e3d31c550efeb266ba2bb6.png" group-title="Best of Documentary",PT Investigation Discovery FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273716
+#EXTINF:-1 tvg-id="" tvg-name="PT: Jackie Chan Adventures HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Jackie Chan Adventures HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/201066
+#EXTINF:-1 tvg-id="" tvg-name="PT: JimJam HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/48ce455058185ecb6f7a06d4a237372d.png" group-title="Portugal",PT: JimJam HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1442
+#EXTINF:-1 tvg-id="" tvg-name="PT JimJam HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/48ce455058185ecb6f7a06d4a237372d.png" group-title="Best of Kids",PT JimJam HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274405
+#EXTINF:-1 tvg-id="" tvg-name="PT: Kuriakos Kids HD" tvg-logo="" group-title="Portugal",PT: Kuriakos Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/10828
+#EXTINF:-1 tvg-id="" tvg-name="PT: Kuriakos TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/06c6937ea3a6feba2e4a2f98030ef1f8.png" group-title="Portugal",PT: Kuriakos TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/9697
+#EXTINF:-1 tvg-id="" tvg-name="PT: Local Visao TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Local Visao TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/10335
+#EXTINF:-1 tvg-id="" tvg-name="PT: Lolly Kids FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8b9b0b402c2f91e70573dabee46aa57.png" group-title="Portugal",PT: Lolly Kids FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/265254
+#EXTINF:-1 tvg-id="" tvg-name="PT: Mas Chic HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f0a5e2834db5e2f94c1056a63bc389b4.png" group-title="Portugal",PT: Mas Chic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/11421
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM Pop HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f4b2006ffab949bf97b89ec370478aaa.png" group-title="Portugal",PT: MCM Pop HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8027
+#EXTINF:-1 tvg-id="" tvg-name="PT MCM Pop HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f4b2006ffab949bf97b89ec370478aaa.png" group-title="Best of Music",PT MCM Pop HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37240
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM Top HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4777c3f2a97f96d38a1df21bfb82d6c2.png" group-title="Portugal",PT: MCM Top HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/272483
+#EXTINF:-1 tvg-id="" tvg-name="PT MCM Top HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4777c3f2a97f96d38a1df21bfb82d6c2.png" group-title="Best of Music",PT MCM Top HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274302
+#EXTINF:-1 tvg-id="" tvg-name="PT: MEO Videoclube HD" tvg-logo="" group-title="Portugal",PT: MEO Videoclube HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/265255
+#EXTINF:-1 tvg-id="" tvg-name="PT: Mezzo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/698be67c78ec5698bbeb975cdf415b6e.png" group-title="Portugal",PT: Mezzo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8022
+#EXTINF:-1 tvg-id="" tvg-name="PT: MMA Combate FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: MMA Combate FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286831
+#EXTINF:-1 tvg-id="" tvg-name="PT: Motorvision TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dd1edbd59250fb5df9e46713fa7e9c24.png" group-title="Portugal",PT: Motorvision TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4012
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV 00s HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/09cc4c6c30d46d10fc0f05137b9203ed.png" group-title="Portugal",PT: MTV 00s HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1533
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV 80s HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/db26115736a88d0d006ebb086b62ae26.png" group-title="Portugal",PT: MTV 80s HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281932
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV Classic HD" tvg-logo="" group-title="Portugal",PT: MTV Classic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290680
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9eb16db3f705768cdb9266a9c7de0730.png" group-title="Portugal",PT: MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1534
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV HITS HD" tvg-logo="" group-title="Portugal",PT: MTV HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290679
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV PORTUGAL HD" tvg-logo="" group-title="Portugal",PT: MTV PORTUGAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290682
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/574bf954a7d9977135a11aea5a17102d.png" group-title="Portugal",PT: NAT GEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1530
+#EXTINF:-1 tvg-id="" tvg-name="PT NAT GEO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/574bf954a7d9977135a11aea5a17102d.png" group-title="Best of Documentary",PT NAT GEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274083
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO Wild FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4602c73330509214ee8324552e8e897.png" group-title="Portugal",PT: NAT GEO Wild FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1531
+#EXTINF:-1 tvg-id="" tvg-name="PT NAT GEO Wild FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4602c73330509214ee8324552e8e897.png" group-title="Best of Documentary",PT NAT GEO Wild FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274084
+#EXTINF:-1 tvg-id="" tvg-name="PT: NBA TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/baa4cd418221792a9984247344767aa5.png" group-title="Portugal",PT: NBA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/278557
+#EXTINF:-1 tvg-id="" tvg-name="PT: Nick Junior HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bdd79f5b3d2dde9c095cbbd602af1de0.png" group-title="Portugal",PT: Nick Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/9693
+#EXTINF:-1 tvg-id="" tvg-name="PT Nick Junior HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bdd79f5b3d2dde9c095cbbd602af1de0.png" group-title="Best of Kids",PT Nick Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274454
+#EXTINF:-1 tvg-id="" tvg-name="PT: nickelodeon HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7ba49f9f77fcc701888de284da556394.png" group-title="Portugal",PT: nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1436
+#EXTINF:-1 tvg-id="" tvg-name="PT nickelodeon HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7ba49f9f77fcc701888de284da556394.png" group-title="Best of Kids",PT nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274924
+#EXTINF:-1 tvg-id="" tvg-name="PT: Nos Studios FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8b1ec4589ef03aaf0359eb18198f2080.png" group-title="Portugal",PT: Nos Studios FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1454
+#EXTINF:-1 tvg-id="" tvg-name="PT: Odisseia FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f290d90bb57058d837daece37550435c.png" group-title="Portugal",PT: Odisseia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1532
+#EXTINF:-1 tvg-id="" tvg-name="PT: Outdoor Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6559abb088aaae76893f68d0531c353c.png" group-title="Portugal",PT: Outdoor Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/28032
+#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA HD" tvg-logo="" group-title="Portugal",PT: PANDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290681
+#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA Kids HD" tvg-logo="" group-title="Portugal",PT: PANDA Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290678
+#EXTINF:-1 tvg-id="" tvg-name="PT: Porto Canal FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/caa6360e94c2e434d525c13688d7a40a.png" group-title="Portugal",PT: Porto Canal FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1419
+#EXTINF:-1 tvg-id="" tvg-name="PT: Rally Mania FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Rally Mania FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/226071
+#EXTINF:-1 tvg-id="" tvg-name="PT: Record News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d47ee9913351a3a3daacf11c7c38cc7b.png" group-title="Portugal",PT: Record News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/280301
+#EXTINF:-1 tvg-id="" tvg-name="PT: Record TV Europa HD" tvg-logo="" group-title="Portugal",PT: Record TV Europa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290677
+#EXTINF:-1 tvg-id="" tvg-name="PT: Redisex HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Redisex HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286842
+#EXTINF:-1 tvg-id="" tvg-name="PT: Rir Ate Cair FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Rir Ate Cair FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286829
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e7aeb547717f6e110c331e6aa4135d26.png" group-title="Portugal",PT: RTP 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1404
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/8a5bcde9b3bd3182948bc4c10e4673a4.png" group-title="Portugal",PT: RTP 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1406
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f7178a16c0b410328e6590e1fd25a937.png" group-title="Portugal",PT: RTP 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1418
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP ACores HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/aa1ce489efce8eb73edf68f36dc6c72e.png" group-title="Portugal",PT: RTP ACores HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/2055
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Africa HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/acba61f833c6fdf7dffb57ce79055908.png" group-title="Portugal",PT: RTP Africa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1424
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP ARENA FHD" tvg-logo="" group-title="Portugal",PT: RTP ARENA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290673
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Madeira HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ae038bcd82a1074dc6659ba454c77d33.png" group-title="Portugal",PT: RTP Madeira HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/278558
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Memoria HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/149de92adf67fa96415a4e4ad74b062d.png" group-title="Portugal",PT: RTP Memoria HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1425
+#EXTINF:-1 tvg-id="" tvg-name="PT: S+ FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: S+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/81973
+#EXTINF:-1 tvg-id="" tvg-name="PT: SANTUARIO DE FATIMA FHD" tvg-logo="" group-title="Portugal",PT: SANTUARIO DE FATIMA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290672
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Caras HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ebc03e0ee47b8550771dcf1c7d2bb89c.png" group-title="Portugal",PT: SIC Caras HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/5910
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f635b82d815b50fe826d0dd86b2da632.png" group-title="Portugal",PT: SIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1408
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f8729e8ca0e2050908b375500f224f9.png" group-title="Portugal",PT: SIC K FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4021
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Mulher FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00cfc2c30fdd7d84ebed9489cc0c6ca9.png" group-title="Portugal",PT: SIC Mulher FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1427
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Noticias FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c9ed2c815adfefb06bcb05ddee39727.png" group-title="Portugal",PT: SIC Noticias FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1416
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Radical FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/977c0ecb61363c74eff0f34c59905fb4.png" group-title="Portugal",PT: SIC Radical FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1429
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sky News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6585dcf4b1636d8cec5aeb3f209de415.png" group-title="Portugal",PT: Sky News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/6100
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal",PT: SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1483
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Best of Sports",PT SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37186
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal",PT: SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1486
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Best of Sports",PT SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37187
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Portugal",PT: SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1489
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Best of Sports",PT SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37188
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal",PT: SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1492
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Best of Sports",PT SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37189
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="Portugal",PT: SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1495
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="Best of Sports",PT SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273474
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="Portugal",PT: SPORT TV 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281487
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 6 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="Best of Sports",PT SPORT TV 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282856
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: SPORT TV NBA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/2051
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV NBA FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",PT SPORT TV NBA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282855
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV+ FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="Portugal",PT: Sport TV+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1481
+#EXTINF:-1 tvg-id="" tvg-name="PT Sport TV+ FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="Best of Sports",PT Sport TV+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273473
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sporting TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="Portugal",PT: Sporting TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1519
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTV HD" tvg-logo="" group-title="Portugal",PT: SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290671
+#EXTINF:-1 tvg-id="" tvg-name="PT: Stingray Iconcerts FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/167e5c522474cd165de21adbf4e32218.png" group-title="Portugal",PT: Stingray Iconcerts FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281933
+#EXTINF:-1 tvg-id="" tvg-name="PT: STV Noticias HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: STV Noticias HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/284005
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3098e701203ad4b48b0be528b27bdd29.png" group-title="Portugal",PT: SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1475
+#EXTINF:-1 tvg-id="" tvg-name="PT: Talking Tom & Friends HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Talking Tom & Friends HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/201052
+#EXTINF:-1 tvg-id="" tvg-name="PT: TCV Internacional HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29c5c693efeeb0a938109134e100fd73.png" group-title="Portugal",PT: TCV Internacional HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/264640
+#EXTINF:-1 tvg-id="" tvg-name="PT: TLC HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/76eab48a6cb0f09a95fc547ed7d8a309.png" group-title="Portugal",PT: TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1479
+#EXTINF:-1 tvg-id="" tvg-name="PT: Tom Cruise HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: Tom Cruise HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/201065
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOMORROWLAND MUSIC HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TOMORROWLAND MUSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290445
+#EXTINF:-1 tvg-id="" tvg-name="PT TOMORROWLAND MUSIC HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Music",PT TOMORROWLAND MUSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290618
+#EXTINF:-1 tvg-id="" tvg-name="PT: Toros TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b19036f8c4a28f580397a6de3bfdc641.png" group-title="Portugal",PT: Toros TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1523
+#EXTINF:-1 tvg-id="" tvg-name="PT: TPA International HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/4ef2d6d12aed15db3868d994c8ca43f8.jpg" group-title="Portugal",PT: TPA International HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/278687
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE AFRICA HD" tvg-logo="" group-title="Portugal",PT: TRACE AFRICA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290675
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE Toca HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0b996adac9268539a530f91dacc05978.png" group-title="Portugal",PT: TRACE Toca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/278560
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE URBAN HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f2c80b360867968ead8f260c359dbd7f.png" group-title="Portugal",PT: TRACE URBAN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1537
+#EXTINF:-1 tvg-id="" tvg-name="PT: Travel Channel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1a1f809513ab32d7bd5d5472605a3a0a.png" group-title="Portugal",PT: Travel Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1529
+#EXTINF:-1 tvg-id="" tvg-name="PT Travel Channel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1a1f809513ab32d7bd5d5472605a3a0a.png" group-title="Best of LifeStyle",PT Travel Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274367
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Globo FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/735dbda706788d6d111673ea03f37cdb.png" group-title="Portugal",PT: TV Globo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1432
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Man HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: TV Man HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/166324
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV RECORD FHD" tvg-logo="" group-title="Portugal",PT: TV RECORD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1431
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV5Monde HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f46f73caa11f8703f4da93504d93f55b.png" group-title="Portugal",PT: TV5Monde HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/146307
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Action FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/171a8586f36fec35a18bf5854ac8b35d.png" group-title="Portugal",PT: TVCine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1452
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Edition FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14b6fc20d38f98098f2654649f603bf2.png" group-title="Portugal",PT: TVCine Edition FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/82254
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Emotion FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/167e3049cd1d1a5497a95f8ff399a161.png" group-title="Portugal",PT: TVCine Emotion FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1448
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Top FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f41f432f7892851986a82363c0f66332.png" group-title="Portugal",PT: TVCine Top FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1446
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVE International HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/0ebe1c7bc68636847c43fbb1131e01a9.jpg" group-title="Portugal",PT: TVE International HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/284594
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85c7a4f09d37b9ad96ddc40a0d48337c.png" group-title="Portugal",PT: TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1410
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Ficcao FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e463c6dec5ae80331584d526357312e1.png" group-title="Portugal",PT: TVI Ficcao FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1421
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d399fedc17277522ba8d0416ee36498d.png" group-title="Portugal",PT: TVI Reality FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1423
+#EXTINF:-1 tvg-id="" tvg-name="PT: WWE Network HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Portugal",PT: WWE Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/198737
+#EXTINF:-1 tvg-id="" tvg-name="PT: Zap Viva FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/dceced52f8867b30f07db88bdc509605.jpg" group-title="Portugal",PT: Zap Viva FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=NooXLista&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/280303

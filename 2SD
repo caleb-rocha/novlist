@@ -1,3 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 01
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27071
+#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 02
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27259
+#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 03
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27331
+#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 04
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27332
+#EXTINF:-1 tvg-id="" tvg-name="BBB 05" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 05
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27333
+#EXTINF:-1 tvg-id="" tvg-name="BBB 06" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 06
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27334
+#EXTINF:-1 tvg-id="" tvg-name="BBB 07" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 07
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27335
+#EXTINF:-1 tvg-id="" tvg-name="BBB 08" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 08
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27336
+#EXTINF:-1 tvg-id="" tvg-name="BBB 09" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 09
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27337
+#EXTINF:-1 tvg-id="" tvg-name="BBB 10" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB 10
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27338
+#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title=" Canais: Pay Per View",BBB Mosaico
+http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27260
+
 #EXTINF:-1 tvg-id="" tvg-name="BR A&E  (P)" tvg-logo="" group-title="Brazil",BR A&E  (P)
 http://hdhd.tk:80/live/a0002/a0002/23028.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BR Animal Planet  (P)" tvg-logo="" group-title="Brazil",BR Animal Planet  (P)

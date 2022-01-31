@@ -23,9 +23,7 @@ http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27338
 http://assistirpainel.net:8880/6are8yg1wx/c6vbu37jdq/27260
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/14a37e51-9f0b-409a-b772-4e6fdacfd70a" parent-code="" group-title="Canais H264", MAGIA IPTV
-http://api.magiaiptv.com/live/800401/962839/m2_JxZJDCBbXhgUjQCz_720p
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/61d2b0bb-163a-43b7-9427-b3ceda732a5e" parent-code="" group-title="Lista de Canais", 007 Coleção
 http://api.magiaiptv.com/live/800401/962839/p1_007_Colecao
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/dd8bb9c7-3bfc-4ca2-8884-5116bcabf084" parent-code="" group-title="Lista de Canais", ABC NEWS (US)
